@@ -1,0 +1,18 @@
+
+# Eclipse settings
+.metadata/
+.settings/
+
+# Compiled files
+build/
+bin/
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
